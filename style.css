@@ -271,7 +271,14 @@ a:focus-visible{
 }
 
 .project-row.no-media{
-  grid-template-columns: 1fr; /* prend toute la largeur */
+  display:grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(22,38,58,.82);
+  box-shadow: var(--shadow-soft);
 }
 
 .project-media{
