@@ -1,52 +1,77 @@
-# [Ton Nom] — Développeur Web
+# Boulaye Seydi — Informatique & Développement Web
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-2ea44f)](https://bseydi.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/bseydi?style=social)](https://github.com/bseydi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/boulaye-seydi-485313260/)
 
-[![Portfolio](https://img.shields.io/badge/Website-Online-2ea44f)](https://<ton-user>.github.io/portfolio)
-[![GitHub followers](https://img.shields.io/github/followers/<ton-user>?style=social)](https://github.com/<ton-user>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<ton-handle>)
+Profil polyvalent en informatique, avec une base solide en **développement front-end (React)** et une appétence pour les rôles **QA / tests**, **support IT** et **outils métiers (CRM)**.
 
+> *React, JavaScript, API — comprendre, tester, améliorer et maintenir des applications utiles.*
 
-Courte phrase d’accroche : *JS/TS, React, Node — j’aime construire des UI rapides et accessibles.*
+---
 
+## 🧭 Domaines d’intervention
+- **Développement web** : intégration UI, composants React, consommation d’API
+- **Qualité / Tests** : scénarios fonctionnels, tests de régression, reproduction de bugs
+- **Support / IT** : diagnostic, résolution d’incidents, documentation, outils métiers
+- **Outils / CRM** : adaptation rapide à des environnements applicatifs et process internes
 
-## 🛠️ Stack & Outils
-- **Front** : HTML5, CSS3, Sass, Tailwind, React, Next.js
-- **Back** : Node.js, Express, Prisma, PostgreSQL
-- **Tests** : Vitest/Jest, Playwright
-- **Qualité** : ESLint, Prettier, Husky
+---
 
+## 🛠️ Compétences & outils
+
+### Front-end
+- HTML5, CSS3
+- JavaScript / TypeScript
+- React (hooks, composants, state)
+- Responsive design, accessibilité
+
+### Back-end & données (bases)
+- Node.js, Express
+- API REST
+- PostgreSQL (requêtes simples, modèle de données)
+
+### Qualité & outils
+- Tests fonctionnels (bases)
+- Debug & reproduction de bugs
+- Git / GitHub
+- Documentation technique et utilisateur
+
+---
 
 ## 🚀 Projets en vitrine
-- **App 1 — Nom** · *React, API X*
-Démo : https://app1-demo.example · Code : https://github.com/<ton-user>/app1
-Points notables : Auth JWT, pagination, tests e2e.
 
+### **BooX — Book Explorer**
+*React · API*
+- Application de recherche de livres via une API externe
+- Affichage dynamique des résultats et fiches détaillées
+- Interface responsive et composants réutilisables
 
-- **App 2 — Nom** · *Next.js, Prisma*
-Démo : https://app2.vercel.app · Code : https://github.com/<ton-user>/app2
-Points notables : SSR, accessibilité, CI/CD.
+🔗 Démo : https://boox-bookexplorer.vercel.app/  
+🔗 Code : https://github.com/bseydi/BooX-Book-explorer
 
+---
 
-> Ajoute 2–4 projets max ici, le reste dans un tableau plus bas.
+> Les projets servent de **preuve technique**, mais mon profil est aussi orienté **qualité, support et amélioration continue**.
 
+---
 
-## 📦 Tous les projets
-| Projet | Tech | Démo | Code |
-|---|---|---|---|
-| App 1 | React, REST | lien | repo |
-| App 2 | Next.js, Prisma | lien | repo |
+## 📦 Autres projets
+| Projet | Technologies | Démo | Code |
+|------|-------------|------|------|
+| BooX | React, API | Lien | Repo |
+| Autre projet | JS, UI | — | — |
 
+---
 
 ## 🧩 À propos
-- Basé à **Ville, Pays** · Ouvert à **CDI / Freelance**
-- Contact : **email@domaine.com**
+- Basé en **France**
+- Ouvert à **CDI / Alternance / Missions IT**
+- Intéressé par : **Développement front-end**, **QA / tests**, **Support IT**, **CRM / outils métiers**
 
+📫 Contact : **boulaye.seydi@gmail.com**
 
-## ✅ Qualité & CI
-- Lint : `npm run lint`
-- Tests : `npm test`
-- Format : `npm run format`
-
+---
 
 ## 📄 Licence
 MIT
