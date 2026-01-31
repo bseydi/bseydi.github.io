@@ -66,7 +66,7 @@ Profil polyvalent en informatique, avec une base solide en **développement fron
 
 ## 🧩 À propos
 - Basé en **France**
-- Ouvert à **CDI / Alternance / Missions IT**
+- Ouvert à **CDI / Missions IT**
 - Intéressé par : **Développement front-end**, **QA / tests**, **Support IT**, **CRM / outils métiers**
 
 📫 Contact : **boulaye.seydi@gmail.com**
