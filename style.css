@@ -270,6 +270,10 @@ a:focus-visible{
   box-shadow: var(--shadow-soft);
 }
 
+.project-row.no-media{
+  grid-template-columns: 1fr; /* prend toute la largeur */
+}
+
 .project-media{
   border-radius: var(--radius-sm);
   overflow: hidden;
